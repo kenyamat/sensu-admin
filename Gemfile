@@ -7,7 +7,7 @@ gem 'rails', '3.2.14'
 
 gem 'sqlite3'
 # bundle --without mysql if using sqlite
-gem 'mysql2', "~> 0.3.11", :group => :mysql 
+# gem 'mysql2', "~> 0.3.11", :group => :mysql 
 
 #Authentication Gems
 gem 'devise'
